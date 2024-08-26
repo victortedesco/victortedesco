@@ -1,4 +1,4 @@
-## Olá, seja bem-vindo ao meu perfil do GitHub.
+## printf("Hello World!");
 
 ### Frameworks
 
@@ -9,7 +9,7 @@
 
 ##
 
-### Linguagens e Ferramentas
+### Languages and Tools
 
 <div>
   <img align="center" alt=".NET Core" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
@@ -28,6 +28,6 @@
 
 <div align="center">
   <a href="https://github.com/VictorTedesco">
-    <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorTedesco&theme=dark&hide_border=false&&layout=donut"/>
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorTedesco&theme=dark&hide_border=false&&layout=donut"/>
   </a>
 </div>
